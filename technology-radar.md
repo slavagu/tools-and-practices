@@ -5,16 +5,16 @@
 ---
 
 ## Infrastructure as code 💚
-Setting up a new environment or changing an infrastructure should be scripted and executed automatically by a build pipeline.
+>Setting up a new environment or changing an infrastructure should be scripted and executed automatically by a build pipeline.
 
 ## Serverless architecture 💚
-Serverless applications are easier to manage and scale so this should be the default approach when setting up a new service or a website.
+>Serverless applications are easier to manage and scale so this should be the default approach when setting up a new service or a website.
 
 ## Functional programming 💚
-It's easy to write testable code when no state is mutated
+>It's easy to write testable code when no state is mutated
 
 ## Object-oriented programming 💛
-It's OK to use OOP just keep it SOLID!
+>It's OK to use OOP just keep it SOLID!
 
 ## Continuous Delivery (CD) 💚
 Deploy automatically to production after all automated tests pass.
