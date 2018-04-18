@@ -1,7 +1,7 @@
 # TECHNOLOGY RADAR
 
 ## Techniques
----
+
 
 ### Infrastructure as code 💚
 Setting up a new environment or changing an infrastructure should be scripted and executed automatically by a build pipeline.
@@ -41,7 +41,7 @@ Useful to pick any issues, learn more, and share the knowledge using the power o
 
 
 ## Platforms
----
+
 
 ### AWS 💚
 AWS is our cloud platform of choice. Of course we should keep an eye on other platforms so the solutions we build should have business logiс decoupled from the infrastructure whenever possible.
@@ -51,7 +51,7 @@ Managed Identity Provider service
 
 
 ## Languages and Frameworks
----
+
 
 ### NodeJS 💚
 It's cool and fast enough plus works really well for serverless architectures, e.g. running in AWS lambdas
@@ -85,7 +85,7 @@ Deploying APIs to AWS Lambda is easy with this proven framework, it just works
 
 
 ## Tools
----
+
 
 ### Buildkite 💚
 Managed build service of choice
